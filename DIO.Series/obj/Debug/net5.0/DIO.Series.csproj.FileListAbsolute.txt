@@ -1,0 +1,15 @@
+/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.AssemblyReference.cache
+/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
