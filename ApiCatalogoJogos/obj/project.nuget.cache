@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wA2NfQGOMyT7ninx604PMsTVm6vlMOTUXsoMIHZi1bUqS1+0fjlFpXHbW0I5Kb7tq7f0twh7mbcimv0PVJp1vQ==",
+  "dgSpecHash": "0l+oVxQnSU4K2EiJkjvbJcS1OiworDHymSotW6SyZ2v50YW5D0nQieznqS1vJwQUQ1tR7K8WrqmyVNUZXNNWXw==",
   "success": true,
-  "projectFilePath": "/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/ApiCatalogoJogos/ExemploApiCatalogoJogos/ExemploApiCatalogoJogos.csproj",
+  "projectFilePath": "/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/ApiCatalogoJogos/ApiCatalogoJogos/ExemploApiCatalogoJogos.csproj",
   "expectedPackageFiles": [
     "/Users/marlavidal/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/5.0.1/microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
     "/Users/marlavidal/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/5.0.1/microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",

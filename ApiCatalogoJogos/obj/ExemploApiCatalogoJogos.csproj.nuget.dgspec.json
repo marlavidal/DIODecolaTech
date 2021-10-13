@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/ApiCatalogoJogos/ExemploApiCatalogoJogos/ExemploApiCatalogoJogos.csproj": {}
+    "/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/ApiCatalogoJogos/ApiCatalogoJogos/ExemploApiCatalogoJogos.csproj": {}
   },
   "projects": {
-    "/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/ApiCatalogoJogos/ExemploApiCatalogoJogos/ExemploApiCatalogoJogos.csproj": {
+    "/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/ApiCatalogoJogos/ApiCatalogoJogos/ExemploApiCatalogoJogos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/ApiCatalogoJogos/ExemploApiCatalogoJogos/ExemploApiCatalogoJogos.csproj",
+        "projectUniqueName": "/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/ApiCatalogoJogos/ApiCatalogoJogos/ExemploApiCatalogoJogos.csproj",
         "projectName": "ExemploApiCatalogoJogos",
-        "projectPath": "/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/ApiCatalogoJogos/ExemploApiCatalogoJogos/ExemploApiCatalogoJogos.csproj",
+        "projectPath": "/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/ApiCatalogoJogos/ApiCatalogoJogos/ExemploApiCatalogoJogos.csproj",
         "packagesPath": "/Users/marlavidal/.nuget/packages/",
-        "outputPath": "/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/ApiCatalogoJogos/ExemploApiCatalogoJogos/obj/",
+        "outputPath": "/Users/marlavidal/Downloads/Educação/Avanade/bootcamp/decola tech/projetos/ApiCatalogoJogos/ApiCatalogoJogos/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/marlavidal/.nuget/NuGet/NuGet.Config"
